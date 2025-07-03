@@ -1,5 +1,5 @@
 criaCartao(
-    'gilmargay',
+    'JOÃO GAY',
     'quen foi a primaira atris a gravar com joão?',
     'teca'
 )
